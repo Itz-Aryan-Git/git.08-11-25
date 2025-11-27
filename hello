@@ -1,0 +1,11 @@
+#iclude <iostream>
+using namespace std;
+int main(){
+
+int n;
+cout<<"inserisci un numero"<<endl;
+cin>>n;
+
+
+
+}
